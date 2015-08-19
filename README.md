@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/travis/sapbuild/node-sap-upload.svg?style=flat-square)](http://travis-ci.org/sapbuild/node-sap-upload)
+[![Version](https://img.shields.io/npm/v/node-sap-upload.svg?style=flat-square)](https://npmjs.org/package/node-sap-upload)
+[![Dependency Status](https://david-dm.org/sapbuild/node-sap-upload.svg)](https://david-dm.org/sapbuild/node-sap-upload)
+[![devDependency Status](https://david-dm.org/sapbuild/node-sap-upload/dev-status.svg)](https://david-dm.org/sapbuild/node-sap-upload#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/node-sap-upload/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/node-sap-upload?branch=master)
 node-sap-upload
 ===============
 
