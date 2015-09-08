@@ -13,7 +13,7 @@
     }
   ],
   "dependencies": {
-    "node-sap-common": "0.1.0",
+    "node-sap-common": "0.1.1",
     "node-sap-promise": "0.1.1",
     "multer": "0.1.7"
   },
