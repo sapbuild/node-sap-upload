@@ -1,6 +1,6 @@
 {
   "name": "node-sap-upload",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SAP file upload component",
   "repository": {
     "type": "git",
