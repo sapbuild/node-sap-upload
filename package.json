@@ -1,6 +1,6 @@
 {
   "name": "node-sap-upload",
-  "version": "0.1.2",
+  "version": "0.3.0",
   "description": "SAP file upload component",
   "repository": {
     "type": "git",
@@ -13,8 +13,8 @@
     }
   ],
   "dependencies": {
-    "node-sap-common": "0.1.1",
-    "node-sap-promise": "0.1.1",
+    "node-sap-common": "0.3.0",
+    "node-sap-promise": "0.3.0",
     "multer": "0.1.7"
   },
   "devDependencies": {
